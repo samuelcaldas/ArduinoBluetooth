@@ -1,0 +1,17 @@
+# Visual Studio Code
+.vscode/
+*.code-*
+
+# Arduino
+*.ino.build/
+*.ino.cpp
+*.ino.hex
+*.ino.elf
+*.ino.eep
+
+# Arquivos específicos
+*copy*
+*.zip
+
+# Android app
+*.keystore
